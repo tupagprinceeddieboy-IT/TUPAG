@@ -1,6 +1,6 @@
 balance = 10000.00  
 
-print("-----BANK OF THE PRINCE ATM -----")
+print("-BANKO NI PRINCE ATM -")
 
 while True:
     print("\nMENU")
