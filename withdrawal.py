@@ -1,4 +1,4 @@
-balance = 10000.00  
+balance = 20000.00  
 
 print("-BANKO NI PRINCE ATM -")
 
